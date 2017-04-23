@@ -25,4 +25,4 @@ b = 255*(dx*uni_x + dy*uni_y + dz*uni_z)        # 光源归一化
 b = b.clip(0,255)                               #避免数据越界，将生成的灰度值裁剪至0-255之间
 
 im = Image.fromarray(b.astype('uint8'))         # 重构图像
-im.save('F:\\python\\myimage\\tupianHD.jpg')         # 保存图像
+im.save('F:\\python\\myimage\\tupianHD.jpg')    # 保存图像
