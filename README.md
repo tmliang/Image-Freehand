@@ -4,7 +4,8 @@
 * 代码的具体分析在我的个人博客
 [Random](www.liangtianming.com)
 * 算法并不完善，以后有时间会更新算法
-
+* 只尽了一些微薄之力，谢谢大家
+##下面是一些具体效果示例：
 * 效果示例1：
 
 <img src="https://github.com/Leotemp/Image-Freehand/raw/master/tupian.jpg" width="45%"> <img src="https://github.com/Leotemp/Image-Freehand/raw/master/tupianHD.jpg" width="45%">
