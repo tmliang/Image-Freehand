@@ -1,9 +1,9 @@
 # Image-Freehand
 
 * 效果示例1：
-![](https://github.com/Leotemp/Image-Freehand/raw/master/tupian.jpg)
-![](https://github.com/Leotemp/Image-Freehand/raw/master/tupianHD.jpg)
 
+<img src="https://github.com/Leotemp/Image-Freehand/raw/master/tupian.jpg" width="30%">
+<img src="https://github.com/Leotemp/Image-Freehand/raw/master/tupianHD1.jpg" width="30%">
 * 效果示例2：
 ![](https://github.com/Leotemp/Image-Freehand/raw/master/tupian1.jpg)
 ![](https://github.com/Leotemp/Image-Freehand/raw/master/tupianHD1.jpg)
