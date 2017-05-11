@@ -1,2 +1,6 @@
 # Image-Freehand
-python实现图片手绘化效果
+
+<figure class="first">
+    <img src="https://github.com/Leotemp/Image-Freehand/raw/master/tupian.jpg">
+    <img src="https://github.com/Leotemp/Image-Freehand/raw/master/tupianHD.jpg">
+</figure>
